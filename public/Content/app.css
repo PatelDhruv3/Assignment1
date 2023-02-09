@@ -1,0 +1,13 @@
+/*Custom css goes here*/
+/*
+ File name = Dhruv Patel COMP229 Assignment1 
+ Student Name = Dhruv Patel
+ Student ID = 301292893
+ Date = 9th February 2023
+*/
+.panel {
+    background-color: #f20a0a;
+    border: 1px solid #4f4848;
+    padding: 20px;
+    box-shadow: 2px 2px 8px #ffffff;
+  }
